@@ -18,7 +18,8 @@ venv/
 
 # Model artifacts
 
-models/
+!models/
+!models/final_gradient_boosting_model.pkl
 *.pkl
 *.joblib
 *.h5
