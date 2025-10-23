@@ -15,7 +15,7 @@ This project aims to predict customer churn using machine learning techniques. T
 | **2. Exploratory Data Analysis (EDA)** | Visualized churn distribution, correlation heatmaps, and service usage patterns. |
 | **3. Feature Selection** | Selected top 10 predictive features based on correlation and importance ranking. |
 | **4. Model Selection** | Compared Logistic Regression, Random Forest, and XGBoost models. |
-| **5. Model Training** | Trained final model on selected features and saved as `churn_model.pkl`. |
+| **5. Model Training** | Trained final model on selected features and saved as `final_gradient_boosting_model.pkl`. |
 | **6. Model Evaluation** | Evaluated using Accuracy, Precision, Recall, F1-score, and ROC-AUC. |
 
 ## 🧮 Model Performance
